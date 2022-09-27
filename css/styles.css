@@ -1,0 +1,28 @@
+body {
+  background-color: #ffebde;
+  margin: 0;
+  padding: 0; }
+
+#li {
+  padding-top: 10px;
+  padding-bottom: 10px; }
+
+#a {
+  color: black;
+  border-left: 0.1px solid; }
+
+#item-color {
+  color: black; }
+
+#second-sub-navbar {
+  border-left: 2px solid; }
+
+#first-nav {
+  border-bottom: 2px solid; }
+
+h1 {
+  text-align: center;
+  width: 360px;
+  margin: 0 auto; }
+
+/*# sourceMappingURL=styles.css.map */
